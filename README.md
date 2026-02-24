@@ -1,5 +1,3 @@
-
-
 # 🔐 Web Application Vulnerability Assessment (VAPT) – zero.webappsecurity.com
 
 ## 📌 Project Overview
